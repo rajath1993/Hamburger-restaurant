@@ -27,11 +27,11 @@ The application by default runs of port 27017 for mongodb - provide the same sor
 Open the maven project in IDE, perform a maven build and run the spring boot application. You should see the application running on port:8080.
 
 ## Features
-CRUD operations on Branch, Reservation and Menu.
-This is built on the idea that one restaurant can have multiple branches.
-Reservations are made based on the user details. Each user has a unique UUID.
-Menu as a whole is separated into menu section. Each menu section will have a menu item.
-The restaurant manager is the admin, and will be provided the authentication to perform CRUD operations on all the fields.
+* CRUD operations on Branch, Reservation and Menu.
+* This is built on the idea that one restaurant can have multiple branches.
+* Reservations are made based on the user details. Each user has a unique UUID.
+* Menu as a whole is separated into menu section. Each menu section will have a menu item.
+* The restaurant manager is the admin, and will be provided the authentication to perform CRUD operations on all the fields.
 
 ## Status
 Project is finished with option to expand functionally.
