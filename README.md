@@ -3,11 +3,11 @@ Backend API endpoints for a hamburger restaurant - Spring boot, microservices, m
 
 ## Table of Contents
 * [General Info](#general-info)
-* [Technologies](#technologies)
+* [Technologies](#tools & technologies)
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
-* [Contact]
+* [Contact](#contact)
 
 ## General info
 The hamburger restaurant is a backend application with all the CRUD operations. This mainly deals with Branch, reservations and menu details of the restaurant.
@@ -37,5 +37,5 @@ The restaurant manager is the admin, and will be provided the authentication to 
 Project is finished with option to expand functionally.
 
 ## Contact
-Create by [Rajath Anand] (http://linkedin.com/in/rajathanand)
+Create by [Rajath Anand](http://linkedin.com/in/rajathanand)
 
