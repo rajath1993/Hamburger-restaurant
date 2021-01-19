@@ -20,10 +20,10 @@ The hamburger restaurant is a backend application with all the CRUD operations. 
 
 ## Setup
 To run this project, install it locally by cloning the GitHub respository.
-### MongoDB
+#### MongoDB
 Install MongoDB on your machine - MongoDB compass community has a better UI which makes it more easy to navigate to the database
 The application by default runs of port 27017 for mongodb - provide the same sort and start a new connection.
-### Spring boot
+#### Spring boot
 Open the maven project in IDE, perform a maven build and run the spring boot application. You should see the application running on port:8080.
 
 ## Features
