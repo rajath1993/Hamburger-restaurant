@@ -3,7 +3,7 @@ Backend API endpoints for a hamburger restaurant - Spring boot, microservices, m
 
 ## Table of Contents
 * [General Info](#general-info)
-* [Technologies](#tools & technologies)
+* [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
@@ -12,7 +12,7 @@ Backend API endpoints for a hamburger restaurant - Spring boot, microservices, m
 ## General info
 The hamburger restaurant is a backend application with all the CRUD operations. This mainly deals with Branch, reservations and menu details of the restaurant.
 
-## Tools & Technologies
+## Technologies
 * Java
 * Spring boot
 * MongoDB
