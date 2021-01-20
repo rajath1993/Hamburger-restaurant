@@ -31,7 +31,7 @@ Open the maven project in IDE, perform a maven build and run the spring boot app
 * This is built on the idea that one restaurant can have multiple branches.
 * Reservations are made based on the user details. Each user has a unique UUID.
 * Menu as a whole is separated into menu section. Each menu section will have a menu item.
-* The restaurant manager is the admin, and will be provided the authentication to perform CRUD operations on all the fields.
+* The restaurant manager is the admin, and will be provided the authorization to perform CRUD operations on all the fields.
 
 ## Status
 Project is finished with option to expand functionally.
